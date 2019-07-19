@@ -229,22 +229,22 @@ h4 {
   background-size: cover !important;
 }
 .social.labwebsite:before {
-  background: url("website.png") center no-repeat;
+  background: url("/website.png") center no-repeat;
 }
 .social.pinterest:before {
   background: url("https://cdn3.iconfinder.com/data/icons/social-media-2026/60/Socialmedia_icons_Pinterest-23-128.png") center no-repeat;
 }
 .social.linked-in:before {
-  background: url("linkedin.png") center no-repeat;
+  background: url("/linkedin.png") center no-repeat;
 }
 .social.GScholar:before {
-  background: url("gsymbol.png") center no-repeat;
+  background: url("/gsymbol.png") center no-repeat;
 }
 .social.Mail:before {
-  background: url("gmail.png") center no-repeat;
+  background: url("/gmail.png") center no-repeat;
 }
 .mugshot.Mugshot:before {
-  background: url("akommini.png") center no-repeat;
+  background: url("/akommini.png") center no-repeat;
 }
 .side-header {
   font-family: 'Open Sans';
