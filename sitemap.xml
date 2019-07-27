@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://akommini.github.io/</loc>
+  <lastmod>2019-07-27T01:43:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://akommini.github.io/index.html</loc>
+  <lastmod>2019-07-27T01:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akommini.github.io/ResearchProj.html</loc>
+  <lastmod>2019-07-27T01:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akommini.github.io/IndeProj.html</loc>
+  <lastmod>2019-07-27T01:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akommini.github.io/Publications.html</loc>
+  <lastmod>2019-07-27T01:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akommini.github.io/TechSkills.html</loc>
+  <lastmod>2019-07-27T01:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akommini.github.io/Accolades.html</loc>
+  <lastmod>2019-07-27T01:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akommini.github.io/ECE658_Project_Adithya.pdf</loc>
+  <lastmod>2019-07-27T01:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akommini.github.io/ECE668_FinalProject_AK.pdf</loc>
+  <lastmod>2019-07-27T01:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
