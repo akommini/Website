@@ -264,6 +264,9 @@ h4 {
 .social.Mail:before {
   background: url("/gmail.png") center no-repeat;
 }
+.social.Github:before {
+  background: url("/github.png") center no-repeat;
+}
 .mugshot.Mugshot:before {
   background: url("/akommini.png") center no-repeat;
 }
