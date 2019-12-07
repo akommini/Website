@@ -99,8 +99,10 @@ h3 {
 }
 h4 {
   font-family: 'Open Sans';
-  font-size: 16px;
-  font-style: italic;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0px;
   color: #000;
 }
 .page {
@@ -116,6 +118,25 @@ h4 {
   height: 30px;
   background-color: #fff;
   color: #fff;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 100%;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 .name {
   display: false;
@@ -229,22 +250,22 @@ h4 {
   background-size: cover !important;
 }
 .social.labwebsite:before {
-  background: url("https://github.com/akommini/akommini.github.io/blob/master/assets/website.png") center no-repeat;
+  background: url("/website.png") center no-repeat;
 }
 .social.pinterest:before {
   background: url("https://cdn3.iconfinder.com/data/icons/social-media-2026/60/Socialmedia_icons_Pinterest-23-128.png") center no-repeat;
 }
 .social.linked-in:before {
-  background: url("https://github.com/akommini/akommini.github.io/blob/master/assets/linkedin.png") center no-repeat;
+  background: url("/linkedin.png") center no-repeat;
 }
 .social.GScholar:before {
-  background: url("https://github.com/akommini/akommini.github.io/blob/master/assets/gsymbol.png") center no-repeat;
+  background: url("/gsymbol.png") center no-repeat;
 }
 .social.Mail:before {
-  background: url("https://github.com/akommini/akommini.github.io/blob/master/assets/gmail.png") center no-repeat;
+  background: url("/gmail.png") center no-repeat;
 }
 .mugshot.Mugshot:before {
-  background: url("https://github.com/akommini/akommini.github.io/blob/master/assets/akommini.png") center no-repeat;
+  background: url("/akommini.png") center no-repeat;
 }
 .side-header {
   font-family: 'Open Sans';
@@ -265,7 +286,7 @@ h4 {
 .content-container {
   margin-right: 30px;
   margin-left: 400px;
-  width: calc(95% - 350px);
+  width: calc(95% - 370px);
   padding: 25px 40px 50px;
 }
 .content-container > * {
@@ -279,6 +300,9 @@ h4 {
 }
 .content-container > p.italic {
   font-style: italic;
+}
+.content-container.bold:before {
+  font-style: bold;
 }
 .title {
   width: 50%;
