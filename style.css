@@ -330,7 +330,7 @@ h4 {
   line-height: 28px;
 }
 
-p.h7 {
+.h7 {
   font-family: 'Open Sans';
   font-size: 16px;
   letter-spacing: 0px;
@@ -340,7 +340,7 @@ p.h7 {
   text-align: left;
 }
 
-p.h8 {
+.h8 {
   font-family: 'Open Sans';
   font-size: 16px;
   letter-spacing: 0px;
