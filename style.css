@@ -331,10 +331,22 @@ h4 {
 }
 
 .h7 {
+  font-family: 'Open Sans';
+  font-size: 16px;
+  letter-spacing: 0px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #000;
   float: left;
 }
 
 .h8 {
+  font-family: 'Open Sans';
+  font-size: 16px;
+  letter-spacing: 0px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #000;
   float: right;
 }
 
