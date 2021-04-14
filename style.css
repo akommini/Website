@@ -329,6 +329,17 @@ h4 {
   font-weight: 600;
   line-height: 28px;
 }
+
+.aleft
+{
+  float: left;
+}
+
+.aright
+{
+  float: right;
+}
+
 @media screen and (max-width: 1150px) {
   .name {
     color: #fff;
