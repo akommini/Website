@@ -330,14 +330,24 @@ h4 {
   line-height: 28px;
 }
 
-.aleft
-{
-  float: left;
+p.h7 {
+  font-family: 'Open Sans';
+  font-size: 16px;
+  letter-spacing: 0px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #000;
+  text-align: left;
 }
 
-.aright
-{
-  float: right;
+p.h8 {
+  font-family: 'Open Sans';
+  font-size: 16px;
+  letter-spacing: 0px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #000;
+  text-align: right;
 }
 
 @media screen and (max-width: 1150px) {
